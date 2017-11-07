@@ -1,4 +1,4 @@
-## Anomaly detection via the use of unsupervised learning on a spark cluster
+## Current project in works: Anomaly detection via the use of unsupervised learning on a spark cluster
 
 ### Introduction
 I have a data set that contains a week-long stream of compiled log security data from a network that reported an intrusion.  My initial goal was just to find this network oddity.  In doing so I have started to engineer features from the data set that can computed on the fly as data streams into the system.  
