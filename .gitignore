@@ -1,0 +1,9 @@
+.idea
+./data_DFd/
+./data_DFd/*
+./data_DFd_V2/
+./data_DFd_V2/*
+./data_DFd_V3/
+./data_DFd_V3/*
+./generated_data/
+./generated_data/*
