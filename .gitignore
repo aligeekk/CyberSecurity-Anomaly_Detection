@@ -7,3 +7,11 @@
 ./data_DFd_V3/*
 ./generated_data/
 ./generated_data/*
+.ipynb_checkpoints
+analysis_local.py
+data_formatting_and_df_creation.py
+messing.py
+mongo_connect.py
+Mongo_messin.ipynb
+./spark-warehouse/
+./spark-warehouse/*
